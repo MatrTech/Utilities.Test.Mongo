@@ -1,3 +1,3 @@
-# MPTech.Mongo.Extensions
+# MatrTech.Utilities.Test.Mongo
 
-Extensions methods for mongo
+Package to make C# testing easier when in need of testing Mongo
